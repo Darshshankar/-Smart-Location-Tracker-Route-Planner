@@ -27,6 +27,7 @@ A mobile application built using React Native that allows users to plan routes, 
 📸 Screenshots
 
 🏠 Home screen 
+(Screenshot_20251117_173827_Expo Go.jpg)
 🗺️ Route Planner
 📍 Route Selection 
 (Screenshot_20251107_145740_Expo Go.jpg)
