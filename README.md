@@ -26,25 +26,11 @@ A mobile application built using React Native that allows users to plan routes, 
 
 📸 Screenshots
 
-🏠 Home Screen
-
-"Home" (assets/screenshots/home-screen.png)
-
+🏠 Home screen 
 🗺️ Route Planner
-
-"Route Planner" (assets/screenshots/route-planner.png)
-
 📍 Route Selection
-
-"Route Selection" (assets/screenshots/route-selection.png)
-
 🌍 Map View
-
-"Map" (assets/screenshots/map-view.png)
-
 📏 Distance Calculation
-
-"Distance" (assets/screenshots/distance-result.png)
 
 ---
 
